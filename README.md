@@ -11,4 +11,4 @@ And that is my project haha, @TypeMonkeyBot is a Twiiter Bot that every 30 minut
 The Idea came from my friend Artur who had heard about that theorem someday and talked to me about create a BOT about it, 
 and as this seemed pretty cool to both of us, and I am currently Studying JavaScript, I had to get the job.
 
-And that's the project, if you want to you can take a look at the CODE up there, and I hope you liked :) 
+And that's the project, if you want to you can take a look at the CODE up there, and I hope you liked :) .
