@@ -14,4 +14,3 @@ and as this seemed pretty cool to both of us, and I am currently Studying JavaSc
 And that's the project, if you want to you can take a look at the CODE up there, and I hope you liked :) .
 .,
 .
-,
